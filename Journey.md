@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riSHABHYADAV96
-- 👀 I’m interested in learning new knowledge.
+- 👀 I’m interested in learning new facts and information.
 - 🌱 I’m currently learning Azure DevOps
 - 💞️ I’m looking to collaborate on program
 - 📫 How to reach me 1996rishabhyadav@gmail.com
