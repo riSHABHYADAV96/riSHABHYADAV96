@@ -4,7 +4,14 @@
 - 💞️ I’m looking to collaborate on program
 - 📫 How to reach me 1996rishabhyadav@gmail.com
 
-<!---
-riSHABHYADAV96/riSHABHYADAV96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+num1 = 2
+num2 = 3
+num3
+num3 = num1+num2
+print('sum of two imteger =' num3)
+
+<!--- program to add two integer--->
+
+
